@@ -25,19 +25,19 @@ const Header = () => {
             <div className="center mb:hidden sm:block">
               <ul className=" flex gap-[30px]  mt-[45px] h-[16px] font-mulish lg:text-[16px] md:text-[14px] sm:text-[12px] ">
                 <li>
-                  <NavLink to="/" >Overview</NavLink>
+                  <NavLink to="/">Overview</NavLink>
                 </li>
 
                 <li>
-                  <NavLink to="/pricing" >Pricing</NavLink>
+                  <NavLink to="/pricing">Pricing</NavLink>
                 </li>
 
                 <li>
-                  <NavLink to="/case" >Case studies</NavLink>
+                  <NavLink to="/case">Case studies</NavLink>
                 </li>
 
                 <li>
-                  <NavLink to="/queries" >FAQ</NavLink>
+                  <NavLink to="/queries">FAQ</NavLink>
                 </li>
               </ul>
             </div>
